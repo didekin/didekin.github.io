@@ -1,0 +1,17 @@
+.idea/
+/**/*.iml
+
+# Mac files
+.DS_Store
+
+# VSCode files
+/**/*.code-workspace
+
+# R ficheros
+**/*_cache
+**/.Rproj.user
+**/*.Rproj
+**/*.Rhistory
+**/.RData
+.Rproj.user
+
