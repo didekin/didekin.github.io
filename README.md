@@ -1,3 +1,7 @@
 What will you find here?
-1. Some pdf documents with readable, I hope, accounts of some of the projects I have been working in.
-2. My public github repositories with an assortment of the software tools in which I have developed some proficiency.
+
+1. Publications: A folder with very readable accounts of some of the projects I have been working in.
+2. My curriculum vitae.
+
+For videos: 
+-- https://youtu.be/kuzcLehxV1M
